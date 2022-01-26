@@ -1,0 +1,50 @@
+* {
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #d6e2f0;
+  font-family: "Outfit", sans-serif;
+}
+
+main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 15px 25px 1px #a0a0a057;
+  width: 15rem;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card .QR-img {
+  border-radius: 10px;
+  width: 100%;
+}
+.card .title-section {
+  margin: 14px 20px;
+}
+.card .title-section .title {
+  color: #1f3251;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+}
+.card .description-section {
+  margin: 0 3px 20px 3px;
+}
+.card .description-section .description {
+  color: #7b879d;
+  font-size: 14px;
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */
