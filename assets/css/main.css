@@ -7,6 +7,7 @@
 body {
   background: #d6e2f0;
   font-family: "Outfit", sans-serif;
+  font-size: 1rem;
 }
 
 main {
@@ -20,8 +21,8 @@ main {
   background: white;
   border-radius: 15px;
   box-shadow: 0 15px 25px 1px #a0a0a057;
-  width: 15rem;
-  padding: 12px;
+  width: 18rem;
+  padding: 1rem 1rem 2.4rem 1rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -31,20 +32,20 @@ main {
   width: 100%;
 }
 .card .title-section {
-  margin: 14px 20px;
+  margin: 1.2rem 0 1rem 0;
 }
 .card .title-section .title {
   color: #1f3251;
-  font-size: 18px;
+  font-size: 1.4rem;
   font-weight: 700;
-  line-height: 20px;
   text-align: center;
 }
 .card .description-section {
-  margin: 0 3px 20px 3px;
+  text-align: center;
+  padding: 0 1rem;
 }
 .card .description-section .description {
   color: #7b879d;
-  font-size: 14px;
-  text-align: center;
+  font-weight: 400;
+  font-size: 15px;
 }/*# sourceMappingURL=main.css.map */

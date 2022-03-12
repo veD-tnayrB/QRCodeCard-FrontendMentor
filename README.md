@@ -15,9 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- Semantic HTML5 markup
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - Sass
 
@@ -25,4 +23,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Frontend Mentor - [@BryantDev_](https://www.frontendmentor.io/profile/BryantDev_)
 
-- Twitter - [@yBryantDev_](https://www.twitter.com/BryantDev_)
+- Twitter - [@BryantDev_](https://www.twitter.com/BryantDev_)
